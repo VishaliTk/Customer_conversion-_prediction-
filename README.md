@@ -31,10 +31,10 @@ SMOTE Oversampling used because of imbalanced data
 StandardaScaler used
 # Models
 I use all the classification algorithms for this dataset because it is catagorical data set
-Logistic Regression is:  92.08629932331488 %
-Random forest is : 93.8790754899376 %
-X Gradient Boosting is: 93.589067580631 %
-K Nearest Neighbour is :  0.9169522805167414 %
-DecisionTreeClassifier is :  0.858732116962102 %
+* Logistic Regression is:  92.08629932331488 % *
+* Random forest is : 93.8790754899376 % *
+* X Gradient Boosting is: 93.589067580631 % *
+* K Nearest Neighbour is :  0.9169522805167414 % *
+* DecisionTreeClassifier is :  0.858732116962102 % *
  
 
